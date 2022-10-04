@@ -21,3 +21,23 @@ background-color: beige;
 background-color: pink;
 
 }
+
+.span{
+
+padding: 0 px 5 px; 
+
+border-top: 2px solid black, 4px solid gray;
+
+
+}
+
+.para{
+
+border: 10px lightgreen ridge;
+
+margin: 5px;
+
+
+
+
+}
