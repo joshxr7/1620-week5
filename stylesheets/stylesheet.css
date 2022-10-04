@@ -35,7 +35,19 @@ border-top: 2px solid black, 4px solid gray;
 
 border: 10px lightgreen ridge;
 
-margin: 5px;
+margin: 5px;}
+
+.h1{
+
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    
+}
+
+body{
+
+
+font-family: "Crimson Text", serif;
 
 
 
